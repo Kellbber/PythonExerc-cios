@@ -1,0 +1,6 @@
+// convertendo moeda em dol simples
+
+d = float(input('quanto dinheiro voce tem? R$ '))
+print('com R${:.2f} pode comprar US${:.2f}'.format(d, d/5.30))
+
+
