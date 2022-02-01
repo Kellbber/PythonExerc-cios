@@ -1,2 +1,2 @@
-# PythonExerc-cios
+# PythonExercicios
 Alguns exercícios em Python - CursoEmVideo
