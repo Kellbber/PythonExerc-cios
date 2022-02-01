@@ -1,0 +1,11 @@
+// mostrando na tela o tipo
+
+n1 = input('digite algo:')
+print('o tipo primitivo de é', type(n1))
+print('so tem espacos?', n1.isspace())
+print('e numero', n1.isnumeric())
+print('e alfabetico', n1.isalpha())
+print('e alfanumerico', n1.isalnum())
+print('esta em maiuscula', n1.isupper())
+print('esta em minuscula', n1.islower())
+print('esta capitalizada', n1.istitle())
