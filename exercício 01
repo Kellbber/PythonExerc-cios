@@ -1,0 +1,4 @@
+//primeira mensagem no python
+
+msg = 'ola, mundo!'
+print(msg)
